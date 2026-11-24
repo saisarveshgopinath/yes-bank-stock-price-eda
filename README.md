@@ -1,6 +1,6 @@
 # Yes Bank Stock Price EDA (2005–2020)
 
-Exploratory analysis of monthly Yes Bank OHLC prices from July 2005 through November 2020. The notebook includes data checks, feature preparation, 15 visualizations, and written interpretations of the observed historical patterns.
+Exploratory analysis of monthly Yes Bank OHLC prices from July 2005 through November 2020. The notebook includes data checks, feature preparation, 20 visualizations, and written interpretations of the observed historical patterns.
 
 ## Files
 

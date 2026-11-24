@@ -11,7 +11,7 @@ Exploratory analysis of monthly Yes Bank OHLC prices from July 2005 through Nove
 
 1. Upload both files to the same Colab session, or upload the notebook and then select the CSV when prompted.
 2. Run the notebook from the top.
-3. Replace the marked contribution, team-member, and GitHub fields before submission.
+3. Replace the marked contribution and team-member fields before submission.
 
 ## Scope
 
